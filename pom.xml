@@ -76,7 +76,7 @@
 		<finalName>CounterWebApp</finalName>
 
 		<plugins>
-		    <!-- Eclipse project -->
+		    <!-- Eclipse project needed -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-eclipse-plugin</artifactId>
