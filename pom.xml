@@ -19,7 +19,7 @@
 
 	<dependencies>
 
-		<!-- Unit Test and local -->
+		<!-- Unit Test and local test -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
