@@ -15,7 +15,7 @@
 		<junit.version>4.11</junit.version>
 		<logback.version>1.0.13</logback.version>
 		<jcl-over-slf4j.version>1.7.5</jcl-over-slf4j.version>
-		<sonar.host.url>http://34.230.35.172:9000/</sonar.host.url>
+		<sonar.host.url>http://34.203.14.219:9000//</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password> 
 	</properties>
@@ -84,7 +84,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Rayutoh13 Snapshot Nexus Repository </name>
-	      <url>http://34.224.213.30:8081/repository/webwebAPP/</url>
+	      <url>http://54.173.240.253:8081/repository/derwebapp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
