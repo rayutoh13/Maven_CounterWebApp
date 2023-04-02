@@ -84,7 +84,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Rayutoh13 Snapshot Nexus Repository </name>
-	      <url>http://18.234.133.105:8081/repository/webwebAPP/</url>
+	      <url>http://34.224.87.52:8081/repository/webwebAPP/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
